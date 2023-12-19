@@ -1,0 +1,36 @@
+{
+    "title":"AICTE fees structure",
+    "user":[
+        {
+            "fees": 1000,
+            "need": "laboratory",
+            "number": 10,
+            "final": 10000
+        },
+        
+        {
+            "fees": 50000,
+            "need": "classes",
+            "number": 6,
+            "final": 300000
+        },
+        {
+            "fees": 10000,
+            "need": "ground",
+            "number": 1,
+            "final": 10000
+        },
+        {
+            "fees": 100000,
+            "need": "safety equipments",
+            "number": 100,
+            "final": 10000000
+        },
+        {
+            "fees": 15000,
+            "need": "dress",
+            "number": 100,
+            "final": 1500000
+        }
+    ]
+}
